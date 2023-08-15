@@ -1,1 +1,2 @@
 # matplotlib-challenge
+In the jupyter notebook  in this repository, the two accompanying CSV files are read and combined into a dataframe.  A duplicate mouse is removed from the data.  The progress of the rest of the mice is analyzed to interpret outcomes of different drug regimens and show features of the data set such as the number of rows (measurements) per drug regimen and the male/female breakdown of the mice participating in the study.  The four most promising treatment regimens are analyzed with visualizations and an outlier outcome is identified within the dataset. 
